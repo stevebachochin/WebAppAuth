@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppAuth", "WebAppAuth\WebAppAuth.csproj", "{CCDC1C33-CF17-4F9D-88C0-506AF662A1FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		BOB|Any CPU = BOB|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DEV|Any CPU = DEV|Any CPU
+		PRD|Any CPU = PRD|Any CPU
+		QAS|Any CPU = QAS|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCDC1C33-CF17-4F9D-88C0-506AF662A1FA}.BOB|Any CPU.ActiveCfg = BOB|Any CPU
+		{CCDC1C33-CF17-4F9D-88C0-506AF662A1FA}.BOB|Any CPU.Build.0 = BOB|Any CPU
+		{CCDC1C33-CF17-4F9D-88C0-506AF662A1FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCDC1C33-CF17-4F9D-88C0-506AF662A1FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCDC1C33-CF17-4F9D-88C0-506AF662A1FA}.DEV|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCDC1C33-CF17-4F9D-88C0-506AF662A1FA}.DEV|Any CPU.Build.0 = Debug|Any CPU
+		{CCDC1C33-CF17-4F9D-88C0-506AF662A1FA}.PRD|Any CPU.ActiveCfg = PRD|Any CPU
+		{CCDC1C33-CF17-4F9D-88C0-506AF662A1FA}.PRD|Any CPU.Build.0 = PRD|Any CPU
+		{CCDC1C33-CF17-4F9D-88C0-506AF662A1FA}.QAS|Any CPU.ActiveCfg = QAS|Any CPU
+		{CCDC1C33-CF17-4F9D-88C0-506AF662A1FA}.QAS|Any CPU.Build.0 = QAS|Any CPU
+		{CCDC1C33-CF17-4F9D-88C0-506AF662A1FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCDC1C33-CF17-4F9D-88C0-506AF662A1FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {856C3075-9EF5-4D28-B214-EDD2781200FB}
+	EndGlobalSection
+EndGlobal
